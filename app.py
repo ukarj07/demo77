@@ -1,4 +1,4 @@
-a = 7
+a =  input("enter a number")
 if a % =0:
     print("it is an even number")
 else:
